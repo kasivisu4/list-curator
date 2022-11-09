@@ -1,3 +1,3 @@
 # Data Filterer
 
-<iframe src="https://miro.com/app/live-embed/uXjVPJVB6yU=/?moveToViewport=-16612,-5531,41372,18008&embedId=374770548576" scrolling="no" allowfullscreen width="777" height="440" frameborder="0"></iframe>
+Miro Board: [Data Filterer](https://miro.com/app/board/uXjVPJVB6yU=/?share_link_id=618301905590)
